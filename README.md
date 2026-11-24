@@ -1,8 +1,5 @@
 # Comparative Assessment of Production Cost Structures Between Irrigated and Rainfed Palay Farming in the Philippines, 2022–2025
 
-**Author:** Michael Angelo S. Manzano
-**Date:** November 2026
-
 ## Overview
 
 This project compares the production costs of irrigated and rainfed (non-irrigated) palay farming in the Philippines using Philippine Statistics Authority (PSA) data for 2022–2025. It asks which expenses contribute most to total production cost, how the two farming systems differ, and whether rice production is becoming more expensive.
